@@ -1,4 +1,4 @@
-# Multidimensional Stance Lexicon
+## Multidimensional Stance Lexicon
 
 This repository contains resources from the following paper:
 ```
